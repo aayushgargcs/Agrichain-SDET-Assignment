@@ -52,4 +52,4 @@ Automation test for a sample website (assumed locators since actual site not giv
 
 ---
 
-✅ Everything is structured like a **real SDET repo** so recruiter can check logic, run tests and see automation skills.
+
